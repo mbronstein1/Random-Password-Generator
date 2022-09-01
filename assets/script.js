@@ -79,7 +79,7 @@ function generatePassword() {
     lowerChar();
     numChar();
     specChar();
-    if (upperCase === "" && lowerCase === "" && number === "" && special === "") {
+    if ((upperCase === "") && (lowerCase === "") && (number === "") && (special === "")) {
       alert("At least one character type must be selected.");
       checkChar();
     }
