@@ -4,7 +4,7 @@
 This is the third challenge in the Northwestern Coding Bootcamp (Module 3). We, the students, were given completed html and css files, along with a very minimal js file, and we had to create a new function called generatePassword() that created and displayed a randomly generated password on the webpage after clicking the "Generate Password" button. This function would ask the user a series of questions to set parameters for the password, such as length of characters as well as type of characters used in the password. See the User Story and Acceptance Criteria below for more information on the project requirements.
 
 ## Link to live page
-[Live Link](https://mbronstein1.github.io/Password-Generator/)
+[Live Link](https://mbronstein1.github.io/Random-Password-Generator/)
 
 ## Screenshot
 ![Webpage Screenshot](./assets/images/Password-Generator.jpg)
